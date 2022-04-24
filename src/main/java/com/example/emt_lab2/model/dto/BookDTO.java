@@ -17,11 +17,4 @@ public class BookDTO {
     private Long author;
 
     private Integer availableCopies;
-
-//    public BookDTO(String name, Category category, Long author, Integer availableCopies) {
-//        this.name = name;
-//        this.category = category;
-//        this.author = author;
-//        this.availableCopies = availableCopies;
-//    }
 }
